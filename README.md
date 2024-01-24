@@ -1,4 +1,3 @@
-# Resume_YP
 # Data Scientist Professional Training Course from Yandex.Practicum
 
  Репозиторий с проектами, которые были выполнены в ходе обучения в [Яндекс.Практикуме по профессии "Специалист по Data Science"](https://practicum.yandex.ru/data-scientist/)
